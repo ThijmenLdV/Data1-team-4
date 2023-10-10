@@ -1,4 +1,4 @@
-# Group assignments Data1 Team 4
+Group assignments Data1 Team 4
  # Team members:
    # Filine van Driel - 
    # Rafaël van Beek - 
