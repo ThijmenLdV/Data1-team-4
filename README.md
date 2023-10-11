@@ -17,3 +17,4 @@ In the Damaged quay walls around route file shows where along the proposed route
 
 # Comments
 We recommend to use these datasets for the test event, but also take samples in April on certain points of the swimming routes and send it to "Het Waterlaboratorium" to ensure that the swimming route has an acceptable water quality. 
+We further recommend the organisation of the test event to discuss with the municipality to have the damaged quay walls repaired well ahead of the test event. This way the risk of quay wall collapse along the route or the risk of pollution of the repairs of the quay walls are minimized. 
