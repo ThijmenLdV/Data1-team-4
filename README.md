@@ -5,7 +5,7 @@ We chose this swim route, because it is for a part based of the ALS City Swim ro
 
 ## Boats File PNG
 The boats png file shows that on our route there are only two public boarding locations. With this we can assume that the swimming route has a small impact on the route of canal boats. This is a geospatial dataset collected from the website of the municipality of Amsterdam. The data is geometrically represented with points. 
-[PNG file of Boats](png/boats.png)
+[PNG file of Boats](boats.png)
 
 ## Turbidity File PNG
 The Turbidity File shows the turbidity, the view distance underwater, of the waters of Amsterdam. As can be seen in the figure, the view distance on the proposed route of the test event has good turbidity compared to other parts in the city of Amsterdam, at the start of the route in the Keizersgracht the view distance is 100 cm. In the second part of the route through the Nieuwe Herengracht, the view distance drops slightly but stays relatively high at 70 cm. The waters around the Marineterrein, where the route makes a lap and eventually finishes the view distance goes up again to 100 cm.
