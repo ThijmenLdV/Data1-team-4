@@ -12,5 +12,8 @@ The Turbidity File shows the turbidity, the view distance underwater, of the wat
 # Oxygen Levels File PNG
 The Oxygen Levels File shows the oxygen levels within the waters of Amsterdam. Compared to the rest of Amsterdam the oxygen levels on the route of the test event are towards the lower side. At all the measure points of the Waternet that are on the oxygen level is 3 mg/l.
 
+# Damaged quay walls around route PNG / Damaged quay walls cluster Herengracht Amstel
+In the Damaged quay walls around route file shows where along the proposed route of the test event there are damaged quay walls. As can be seen in the picture there is a cluster of 2 damaged quay walls close to the route on the junction of the Herengracht and the Amstel. In the Damaged quay walls cluster Herengracht Amstel file, it can be seen that only one of those two is actually on the route and on the junction of the Herengracht and the Amstel. The other damaged quay wall is further along the Herengracht, away from the route of the test event. Furthermore, there is a second damaged quay wall along the route on the Nieuwe Herengracht. After this second damaged quay wall, the route of the test event does not have anymore damaged quay walls.
+
 # Comments
 We recommend to use these datasets for the test event, but also take samples in April on certain points of the swimming routes and send it to "Het Waterlaboratorium" to ensure that the swimming route has an acceptable water quality. 
