@@ -1,7 +1,7 @@
 # Assignment 1: explanation of the files in this branch.
 
-## Swim Route File PNG
-We chose this swim route, because it is for a part based of the ALS City Swim route (from the Keizersgracht to Marineterrein). Waternet always ensures each year that the water quality on this swimming route is acceptable. Each year it has been accepted so we chose this part based off this information. Also we continued the second part of the swimming route around Marineterrein, because Marineterrein is always heavily monitored and in literature research the water quality is always acceptable for swimmers. 
+## Route Paralympic Test event Amsterdam File PNG
+In this file, you can find the proposed route for the Paralympic test event that the municipality of Amsterdam wants to host. The beginning of the route is identical to the route of the Amsterdam City Swim. As Waternet guarantees the water quality for the ACS, we know that the water quality in this part of the course is good enough for the Paralympic test event. The part of the course would lead the swimmers around the Nemo pier into the Oosterdok area. In here the swimmers will do a loop, leaving the area again through the section above Nemo. From there the route goes into the Dijksgracht and underneath the Marinesbrug. After the Marinesbrug the swimmers will take a left into the Kattenburgervaart, where at the end of the route is. 
 
 ## Boats File PNG
 The boats png file shows that on our route there are only two public boarding locations. With this we can assume that the swimming route has a small impact on the route of canal boats. This is a geospatial dataset collected from the website of the municipality of Amsterdam. The data is geometrically represented with points. 
